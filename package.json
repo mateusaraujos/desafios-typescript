@@ -1,0 +1,32 @@
+{
+  "name": "desafios-typescript",
+  "version": "1.0.0",
+  "description": "Projeto criado para resolver alguns desafios da linguagem TypeScript.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateusaraujos/desafios-typescript.git"
+  },
+  "keywords": [
+    "typescript",
+    "node",
+    "javascript",
+    "html",
+    "css",
+    "lite-server"
+  ],
+  "author": "Mateus Araújo <silva.mateusaraujo98@gmail.com> (https://www.linkedin.com/in/mateusaraujos/)",
+  "license": "MIT",
+  "bugs": "https://github.com/mateusaraujos/desafios-typescript/issues",
+  "homepage": "https://github.com/mateusaraujos/desafios-typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
